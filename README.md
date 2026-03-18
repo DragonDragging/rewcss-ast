@@ -14,12 +14,8 @@ Built for high performance and large stylesheets.
 - Zero dependencies
 
 
-## Installation
-```bash
-npm install rewcss-ast
 
 ## Installation
-
 You can install the package from npm:
 
 ```bash
