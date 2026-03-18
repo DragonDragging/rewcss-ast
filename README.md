@@ -23,7 +23,7 @@ npm install rewcss-ast
 ```
 Or clone the repository for development:
 ```bash
-git clone https://github.com/DragonDragging/rewcss-ast.git
+git clone https://github.com/unnxor/rewcss-ast.git
 cd rewcss-ast
 ```
 
